@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayangggg
 - 👀 I’m interested in learning codes.
-- 🌱 I’m currently learning HTML, CSS & Java
-- 💞️ I’m looking to collaborate on, well still learning what's going on here.
+- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 💞️ I’m looking to collaborate more about coding world!
 - 📫 How to reach me? 
 
 <!---
